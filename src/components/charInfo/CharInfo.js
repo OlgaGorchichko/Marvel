@@ -101,7 +101,7 @@ const View = ({char}) => {
                             <div className="inner">Wiki</div>
                         </a>
                     </div>
-                </div>
+                </div> 
             </div>
             <div className="char__descr">
                 {description}
